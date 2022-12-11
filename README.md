@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaoliferreira&layout=compact&hide_border=true&title_color=cb69c1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=vitoriaoliferreira&theme=dracula&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=vitoriaoliferreira&theme=dracula&hide_border=true&area=true)
 
 <div align="center">  
 <a href="https://www.behance.net/vitoriaoliferreira" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
