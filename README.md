@@ -1,66 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cb69c1&height=120&section=header"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cb69c1&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+my+name+is+Vitoria+Ferreira;Computer+Science+student+at+UFV;Tech+enthusiast+:%29)](https://git.io/typing-svg)
+<p align="left"> 
+  Olá! Eu sou a <strong>Vitoria Ferreira</strong> 👋<br>
+  Estudante de <strong>Ciência da Computação | UFV</strong><br>
+  Apaixonada por tecnologia, desenvolvimento e aprendizado contínuo 🚀<br>
+  No momento estou estudando <strong>C++, JavaScript</strong> e desenvolvimento front-end.
+</p>
 
-### 👋 About me
+<p align="left">
+  🦄 <strong>Linguagens:</strong><br>
+  C, C++, JavaScript, Python
+</p>
 
-Estudante de **Ciência da Computação (UFV)**, apaixonada por tecnologia, desenvolvimento e sempre buscando aprender coisas novas 🚀  
-No momento estou focada em **C++**, **JavaScript**, **Estrutura de Dados** e iniciando no desenvolvimento front-end 👩‍💻  
-Nas horas vagas, gosto de **jogar**, **fazer crochê**, **costurar** e **tocar violino** 🎻✨  
+<p align="left">
+  💼 <strong>Ferramentas e Tecnologias:</strong><br>
+  Visual Studio Code, GitHub, Windows, Figma, Adobe Photoshop,
+</p>
 
----
+<p align="left">
+  💌 Entre em contato comigo: ⤵️<br>
+  Sempre aberta para conversar sobre tecnologia, projetos ou trocar experiências! 💜
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitoriaoliferreira&show_icons=true&count_private=true&hide_border=true&title_color=cb69c1&icon_color=cb69c1&text_color=c9d1d9&bg_color=0d1117" alt="Vitoria Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaoliferreira&layout=compact&hide_border=true&title_color=cb69c1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
----
-
-### 🧠 Main skills
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
----
-
-### 🛠️ Tools I use
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
----
-
-### 📚 Other Knowledge
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
-
----
-
-### 📌 Currently learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
----
-
-### 💬 Contact me!
-<div align="left">
+<p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-  <a href="https://www.linkedin.com" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+  <a href="https://www.behance.net/vitoriaoliferreira" target="_blank" title="Behance">
+  <img src="https://img.shields.io/badge/-Behance-0054F7?style=flat-square&logo=behance&logoColor=white" alt="Behance"/></a>
 
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-  <a href="https://www.behance.net/vitoriaoliferreira" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
-</div>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cb69c1&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
