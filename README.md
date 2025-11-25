@@ -23,8 +23,13 @@
 </p>
 
 <p align="left">
-  
-  <a href="https://www.linkedin.com/in/vitoriaferreiraoliveira" title="LinkedIn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn"/></a>
+ <a href="https://www.linkedin.com/in/vitoriaferreiraoliveira" title="LinkedIn" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" 
+    alt="LinkedIn"
+    style="width: 30px; height: 30px; object-fit: contain;"
+  />
+</a>
+
 
 </p>
